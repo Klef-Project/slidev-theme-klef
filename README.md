@@ -48,3 +48,28 @@ This theme provides the following components:
 - Edit the `example.md` and style to see the changes
 - `npm run export` to generate the preview PDF
 - `npm run screenshot` to generate the preview PNG
+
+# Build-in Components
+
+## Hlt
+
+**Hlt** means "Highlight", so this component can highlighting text.
+
+Usage: (example.md)
+
+```md
+Press space to <Hlt>next page</Hlt>
+```
+
+## Bottom-Line
+
+**Bottom-Line** is displayed in ALL slides.
+
+Configurations (in FromtMatter) :
+
+```md
+---
+title: slidev theme klef
+file: klef-project/slidev-theme-klef
+---
+```
