@@ -3,7 +3,7 @@
   /* can be overrided by uses `themeConfig` option */
   --slidev-theme-primary: #5d8392;
   h1 {
-    border-bottom: #7dd3fc 2px dashed; /*sky-300*/
+    border-bottom: #7dd3fc 3px dashed; /*sky-300*/
   }
   a {
     border-bottom: #f9a8d4 2px dotted; /*pink-300*/
@@ -29,6 +29,6 @@
     @apply mt-10;
   }
   h1 {
-    border-bottom: #5d8392 3px dashed;
+    border-bottom: #5d8392 4px dashed;
   }
 }
