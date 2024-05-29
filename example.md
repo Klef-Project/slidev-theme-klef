@@ -1,8 +1,9 @@
 ---
 theme: ./
+file: klef-project/slidev-theme-klef
 ---
 
-# Slidev Theme Starter
+# Slidev Theme Klef
 
 Presentation slides for developers
 
