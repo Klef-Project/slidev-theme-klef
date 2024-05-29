@@ -29,17 +29,17 @@ theme: <b>klef</b>
 
 Learn more about [how to use a theme](https://sli.dev/themes/use).
 
-## Layouts
+<!-- ## Layouts
 
 This theme provides the following layouts:
 
-> TODO:
+> TODO: -->
 
-## Components
+<!-- ## Components
 
 This theme provides the following components:
 
-> TODO:
+> TODO: -->
 
 ## Contributing
 
